@@ -1,7 +1,6 @@
 const express = require('express')
 const app = express()
 const cors = require('cors')
-const { request, response } = require('express')
 const PORT = 3000
 
 const crewMembers = {
